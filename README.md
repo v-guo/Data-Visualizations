@@ -1,8 +1,8 @@
 # Data-Visualizations
 
-![](hello.gif){:style="display:block; margin-left:auto; margin-right:auto"}
-## Hello, I'm Valentina Guo!
+![](hello.gif)
+## Hello, I'm Valentina Guo! I like working with data.
 
-Here are some of visualizations I have made over the years!
+Check out some of the visualizations I have made over the years!
 
 
