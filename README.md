@@ -1,5 +1,3 @@
-# Data-Visualizations
-
 ![](hello.gif)
 ## Hello, I'm Valentina Guo! I like working with data.
 
